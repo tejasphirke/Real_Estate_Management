@@ -22,9 +22,4 @@ Overview:
 ## Visualization
 ![image](https://github.com/user-attachments/assets/3ba2104a-5d4d-40a6-9482-b7e28adaf0d2)
 ![image](https://github.com/user-attachments/assets/2ce2cfa5-619d-4f7a-a5ef-d25d62fa799d)
-![image](https://github.com/user-attachments/assets/70612df1-b7e8-4169-b3a1-97ecb80349b0)
 
-## Conclusion
-- Hawaii is the most expensive state to buy a house with a median price of $713,199. This is because Hawaii has very limited land but high demand that results in elevated housing costs.
-- Florida Has the Highest Number of Realtors in the US
-- Currently, the United States has  1,578,077 registered realtors. Florida topped the list with the highest count of realtors, totaling 218,906. California holds the second spot with 202,970 realtors.
